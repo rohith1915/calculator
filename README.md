@@ -1,0 +1,1 @@
+This project is a responsive website created using only HTML and CSS as part of the Eudveda Web Development Program. It features a homepage and multiple internal pages with a clean, semantic structure and custom styling. The project enhanced my skills in front-end design, responsiveness, and modern web layout techniques.
